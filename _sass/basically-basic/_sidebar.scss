@@ -136,18 +136,18 @@
   align-items: center;
   top: 8pt;
   left: 0;
-  padding-left: 1rem;
+  padding-left: 0;
   margin: 8pt 0;
   background-color: $background-color;
   z-index: 10000;
 
   @include breakpoint($medium) {
-    left: 2rem;
+    left: 0rem;
     padding-left: 0;
   }
 
   @include breakpoint($large) {
-    left: 5vw;
+    left: 0vw;
   }
 
   .toggle-inner {

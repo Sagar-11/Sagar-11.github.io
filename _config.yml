@@ -15,7 +15,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  Sagar-11
-# logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/images/logo.svg
+icon_attribute: "[Book](https://iconscout.com/icons/book) by [Alex Martynov](https://iconscout.com/contributors/rengised) on [IconScout](https://iconscout.com)"
+
 
 # Build settings
 theme: jekyll-theme-basically-basic
