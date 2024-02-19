@@ -1,0 +1,6 @@
+# Theme Skin
+skin: steel # default, night, plum, sea, soft, steel
+
+# Navigation Pages
+# navigation_pages:
+  # - about.markdown
