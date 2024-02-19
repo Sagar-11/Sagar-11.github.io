@@ -20,7 +20,8 @@ icon_attribute: "[Book](https://iconscout.com/icons/book) by [Alex Martynov](htt
 
 
 # Build settings
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
